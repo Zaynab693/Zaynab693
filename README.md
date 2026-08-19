@@ -149,7 +149,7 @@ Designed and deployed a hardened Windows Server 2022 image compliant with CIS Be
 
 <p align="center">
 <a href="mailto:zaynabelmaghrossi@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" height="30"></a>
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" height="30"></a>
+<a href="https://www.linkedin.com/in/zaynab-elmaghrossi-05b26a292/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" height="30"></a>
 <img src="https://img.shields.io/badge/-Rabat%2C%20Morocco-000000?style=for-the-badge&logo=googlemaps&logoColor=39FF14" height="30">
 </p>
 
