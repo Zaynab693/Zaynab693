@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- ===================== HERO ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d2b1d,100:000000&height=210&section=header&text=ZAYNAB%20EL%20MAGHROSSI&fontSize=40&fontColor=39FF14&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%26%20AI%20Security&descAlignY=58&descSize=18&descColor=00FF9C" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d2b1d,100:000000&height=210&section=header&text=ZAYNAB%20EL%20MAGHROSSI&fontSize=40&fontColor=39FF14&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20and%20AI%20Security&descAlignY=58&descSize=18&descColor=00FF9C" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=620&lines=%3E+whoami+--role;Cybersecurity+Analyst;AI+Security+%2F+Threat+Detection;Network+Defense+%26+Pentesting;Master's+student+%40+Universit%C3%A9+Ibn+Tofail" alt="typing">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=620&lines=%3E+whoami+--role;Cybersecurity+Analyst;AI+Security+%2F+Threat+Detection;Network+Defense+and+Pentesting;Masters+student+%40+Universit%C3%A9+Ibn+Tofail" alt="typing">
 
 </div>
 
