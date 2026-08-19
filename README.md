@@ -174,9 +174,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynab693&layout=compact&hide_border=false&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&text_color=E2E8F0&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynab693&layout=compact&hide_border=false&border_color=2563EB&bg_color=F8FAFC&title_color=2563EB&text_color=0D1117&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynab693&layout=compact&hide_border=false&border_color=2563EB&bg_color=F8FAFC&title_color=2563EB&text_color=0D1117&langs_count=8" height="165"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=0D1117&color=E2E8F0&line=00D9FF&point=7C3AED&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=F8FAFC&color=0D1117&line=2563EB&point=06B6D4&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=F8FAFC&color=0D1117&line=2563EB&point=06B6D4&hide_border=true&area=true" width="100%"/>
 </picture>
 
 <picture>
