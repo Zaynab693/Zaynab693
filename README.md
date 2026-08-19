@@ -115,7 +115,7 @@ Designed and deployed a hardened Windows Server 2022 image compliant with CIS Be
   <img src="https://raw.githubusercontent.com/Zaynab693/Zaynab693/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake">
 </picture>
 
-<sub>⚠️ Needs a one-time setup — see <code>snake.yml</code> below. Until the workflow runs once, this row will show a broken image.</sub>
+
 
 <br>
 
@@ -123,14 +123,14 @@ Designed and deployed a hardened Windows Server 2022 image compliant with CIS Be
 
 <img src="https://raw.githubusercontent.com/Zaynab693/Zaynab693/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph">
 
-<sub>⚠️ Also needs a one-time setup — see <code>profile-3d.yml</code> below.</sub>
+
 
 <br>
 
-### 🏆 Trophies
+### 🔥 Streak
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Zaynab693&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="trophies">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaynab693&theme=dark&hide_border=true&background=000000&stroke=39FF14&ring=00FF9C&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=666666" alt="streak stats">
 </p>
 
 <br>
