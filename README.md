@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0066FF,100:00CCFF&height=220&section=header&text=ZAYNAB&fontSize=70&fontColor=D2F7FF&fontAlignY=38&desc=CYBERSECURITY%20%C3%97%20AI%20%C3%97%20ENGINEERING&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0066FF,100:00CCFF&height=220&section=header&text=ZAYNAB&fontSize=70&fontColor=D2F7FF&fontAlignY=38&desc=CYBERSECURITY%20%C3%97%20AI%20%C3%97%20ENGINEERING&descAlignY=58&descSize=20&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D2F7FF,50:00CCFF,100:0066FF&height=220&section=header&text=ZAYNAB&fontSize=70&fontColor=0B0F14&fontAlignY=38&desc=CYBERSECURITY%20%C3%97%20AI%20%C3%97%20ENGINEERING&descAlignY=58&descSize=20&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D2F7FF,50:00CCFF,100:0066FF&height=220&section=header&text=ZAYNAB&fontSize=70&fontColor=0B0F14&fontAlignY=38&desc=CYBERSECURITY%20%C3%97%20AI%20%C3%97%20ENGINEERING&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00CCFF&center=true&vCenter=true&width=650&lines=Securing+systems.;Building+intelligent+solutions.;Exploring+the+future+of+cybersecurity." alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00CCFF&background=00000000&center=true&vCenter=true&width=650&lines=Securing+systems.;Building+intelligent+solutions.;Exploring+the+future+of+cybersecurity.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0066FF&background=00000000&center=true&vCenter=true&width=650&lines=Securing+systems.;Building+intelligent+solutions.;Exploring+the+future+of+cybersecurity.">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0066FF&background=00000000&center=true&vCenter=true&width=650&lines=Securing+systems.;Building+intelligent+solutions.;Exploring+the+future+of+cybersecurity." alt="Typing SVG" />
+</picture>
 
 <br/>
 
@@ -24,7 +32,11 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%"/>
+</picture>
 
 ## 🖥️&nbsp; SYSTEM.STATUS
 
@@ -47,8 +59,13 @@
 [38;5;46m│[0m   ● SYSTEM ONLINE
 [38;5;51m└─────────────────────────────────────────────────────────[0m
 ```
+<sub>Code-block backgrounds are set by GitHub itself, so this terminal already flips with your site theme automatically.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%"/>
+</picture>
 
 ## 🛡️&nbsp; SECURITY LAB
 
@@ -98,7 +115,11 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%"/>
+</picture>
 
 ## 🚀&nbsp; FEATURED PROJECTS
 
@@ -149,28 +170,58 @@ Dockerized private cloud integrated into a secure network architecture.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%"/>
+</picture>
 
 ## 📊&nbsp; ANALYTICS DASHBOARD
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zaynab693&show_icons=true&count_private=true&hide_border=true&bg_color=0B0F14&title_color=00CCFF&icon_color=00CCFF&text_color=D2F7FF" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=Zaynab693&hide_border=true&background=0B0F14&ring=00CCFF&fire=0066FF&currStreakLabel=00CCFF&sideLabels=D2F7FF&currStreakNum=D2F7FF&sideNums=D2F7FF&dates=6E7681" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zaynab693&show_icons=true&count_private=true&hide_border=false&border_color=00CCFF&bg_color=0B0F14&title_color=00CCFF&icon_color=00CCFF&text_color=D2F7FF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Zaynab693&show_icons=true&count_private=true&hide_border=false&border_color=0066FF&bg_color=FFFFFF&title_color=0066FF&icon_color=0066FF&text_color=0B0F14">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaynab693&show_icons=true&count_private=true&hide_border=false&border_color=0066FF&bg_color=FFFFFF&title_color=0066FF&icon_color=0066FF&text_color=0B0F14" height="165"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Zaynab693&hide_border=false&border=00CCFF&background=0B0F14&ring=00CCFF&fire=0066FF&currStreakLabel=00CCFF&sideLabels=D2F7FF&currStreakNum=D2F7FF&sideNums=D2F7FF&dates=6E7681">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Zaynab693&hide_border=false&border=0066FF&background=FFFFFF&ring=0066FF&fire=00CCFF&currStreakLabel=0066FF&sideLabels=0B0F14&currStreakNum=0B0F14&sideNums=0B0F14&dates=57606A">
+  <img src="https://streak-stats.demolab.com/?user=Zaynab693&hide_border=false&border=0066FF&background=FFFFFF&ring=0066FF&fire=00CCFF&currStreakLabel=0066FF&sideLabels=0B0F14&currStreakNum=0B0F14&sideNums=0B0F14&dates=57606A" height="165"/>
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynab693&layout=compact&hide_border=true&bg_color=0B0F14&title_color=00CCFF&text_color=D2F7FF&langs_count=8" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynab693&layout=compact&hide_border=false&border_color=00CCFF&bg_color=0B0F14&title_color=00CCFF&text_color=D2F7FF&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynab693&layout=compact&hide_border=false&border_color=0066FF&bg_color=FFFFFF&title_color=0066FF&text_color=0B0F14&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynab693&layout=compact&hide_border=false&border_color=0066FF&bg_color=FFFFFF&title_color=0066FF&text_color=0B0F14&langs_count=8" height="165"/>
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=0B0F14&color=D2F7FF&line=00CCFF&point=0066FF&hide_border=true&area=true" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=0B0F14&color=D2F7FF&line=00CCFF&point=0066FF&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=FFFFFF&color=0B0F14&line=0066FF&point=00CCFF&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=FFFFFF&color=0B0F14&line=0066FF&point=00CCFF&hide_border=true&area=true" width="100%"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Zaynab693/Zaynab693/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaynab693/Zaynab693/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zaynab693/Zaynab693/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Zaynab693/Zaynab693/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%"/>
+</picture>
 
 ## 🧰&nbsp; TECH STACK
+
+<sub>Kept as fixed dark chips on purpose — a stable brand mark that reads the same in both modes, like a logo. Say the word and I'll make these theme-adaptive too.</sub>
 
 **SECURITY**
 <br/>
@@ -206,7 +257,11 @@ Dockerized private cloud integrated into a secure network architecture.
 ![Git](https://img.shields.io/badge/Git-0B0F14?style=flat-square&logo=git&logoColor=00CCFF)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B0F14?style=flat-square&logo=githubactions&logoColor=00CCFF)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%"/>
+</picture>
 
 ## 🎯&nbsp; CURRENTLY BUILDING
 
@@ -221,7 +276,11 @@ Dockerized private cloud integrated into a secure network architecture.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CCFF,100:0B0F14&height=150&section=footer&text=SECURE%20THE%20SYSTEM.%20BUILD%20THE%20FUTURE.&fontSize=18&fontColor=D2F7FF&fontAlignY=75&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00CCFF,100:0B0F14&height=150&section=footer&text=SECURE%20THE%20SYSTEM.%20BUILD%20THE%20FUTURE.&fontSize=18&fontColor=D2F7FF&fontAlignY=75&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:D2F7FF&height=150&section=footer&text=SECURE%20THE%20SYSTEM.%20BUILD%20THE%20FUTURE.&fontSize=18&fontColor=0B0F14&fontAlignY=75&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:D2F7FF&height=150&section=footer&text=SECURE%20THE%20SYSTEM.%20BUILD%20THE%20FUTURE.&fontSize=18&fontColor=0B0F14&fontAlignY=75&animation=fadeIn" width="100%"/>
+</picture>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zaynab693-0B0F14?style=for-the-badge&logo=github&logoColor=00CCFF)](https://github.com/Zaynab693)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaynab_Elmaghrossi-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00CCFF)](https://www.linkedin.com/in/zaynab-elmaghrossi-05b26a292/)
