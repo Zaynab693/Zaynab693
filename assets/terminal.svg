@@ -1,0 +1,99 @@
+<svg viewBox="0 0 760 340" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#39FF14"/>
+    </pattern>
+  </defs>
+
+  <!-- window body -->
+  <rect x="2" y="2" width="756" height="336" rx="10" fill="#0a0a0a" stroke="#39FF14" stroke-width="1.5" filter="url(#glow)"/>
+
+  <!-- scanline texture -->
+  <rect x="2" y="2" width="756" height="336" fill="url(#scan)" opacity="0.05"/>
+
+  <!-- title bar -->
+  <rect x="2" y="2" width="756" height="34" rx="10" fill="#111111"/>
+  <rect x="2" y="20" width="756" height="16" fill="#111111"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="19" r="6" fill="#27c93f"/>
+  <text x="380" y="24" text-anchor="middle" fill="#666666" font-size="12">zsh — zaynab@security</text>
+
+  <!-- terminal content -->
+  <g font-size="13.5" fill="#39FF14">
+
+    <text x="20" y="64" fill="#00FF9C">
+      <tspan fill="#39FF14">zaynab@security</tspan><tspan fill="#666666">:~$</tspan> whoami --scan
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0;0.02;0.786;0.857;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="90" font-weight="bold" fill="#00FF9C">
+      SYSTEM SCAN: zaynab_elmaghrossi.profile
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.036;0.057;0.786;0.857;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="108" fill="#1e5c1e">
+      ────────────────────────────────────────────
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.05;0.07;0.786;0.857;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="130">
+      &gt; location    : Rabat, Morocco - open to relocation
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.068;0.089;0.786;0.857;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="150">
+      &gt; status      : Masters - AI &amp; Cybersecurity (2025-27)
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.086;0.107;0.786;0.857;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="170">
+      &gt; seeking     : Internship / Alternance - SecOps, AI Sec
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.104;0.125;0.786;0.857;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="190">
+      &gt; last_role   : Infrastructure Security @ ONCF Rabat
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.121;0.143;0.786;0.857;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="210">
+      &gt; languages   : AR (native) . FR (B2) . EN (B2)
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.139;0.161;0.786;0.857;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="230">
+      &gt; threat_lvl  : ISC2 Certified . Cisco Ethical Hacker
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.157;0.179;0.786;0.857;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="248" fill="#1e5c1e">
+      ────────────────────────────────────────────
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.175;0.196;0.786;0.857;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="270" font-weight="bold" fill="#00FF9C">
+      SCAN COMPLETE — 0 vulnerabilities in this profile [OK]
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.193;0.214;0.786;0.857;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <g>
+      <text x="20" y="298">
+        <tspan fill="#39FF14">zaynab@security</tspan><tspan fill="#666666">:~$</tspan>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.214;0.236;0.786;0.857;1" dur="14s" repeatCount="indefinite"/>
+      </text>
+      <rect x="128" y="286" width="9" height="15" fill="#39FF14">
+        <animate attributeName="opacity" values="1;0;1;0;1;0;1;0;1;0;1;0;1;0" dur="14s" repeatCount="indefinite" keyTimes="0;0.036;0.071;0.107;0.143;0.179;0.214;0.25;0.286;0.321;0.357;0.393;0.429;1" />
+      </rect>
+    </g>
+
+  </g>
+</svg>
