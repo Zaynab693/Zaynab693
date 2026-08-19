@@ -172,13 +172,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Zaynab693&hide_border=false&border=2563EB&background=F8FAFC&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB&sideLabels=0D1117&currStreakNum=0D1117&sideNums=0D1117&dates=64748B">
   <img src="https://streak-stats.demolab.com/?user=Zaynab693&hide_border=false&border=2563EB&background=F8FAFC&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB&sideLabels=0D1117&currStreakNum=0D1117&sideNums=0D1117&dates=64748B" height="165"/>
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=0D1117&color=E2E8F0&line=00D9FF&point=7C3AED&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=F8FAFC&color=0D1117&line=2563EB&point=06B6D4&hide_border=true&area=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=F8FAFC&color=0D1117&line=2563EB&point=06B6D4&hide_border=true&area=true" width="100%"/>
-</picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=0D1117&color=E2E8F0&line=00D9FF&point=7C3AED&hide_border=true&area=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=F8FAFC&color=0D1117&line=2563EB&point=06B6D4&hide_border=true&area=true">
