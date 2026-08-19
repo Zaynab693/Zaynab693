@@ -1,23 +1,24 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0066FF,100:00CCFF&height=220&section=header&text=ZAYNAB&fontSize=70&fontColor=D2F7FF&fontAlignY=38&desc=CYBERSECURITY%20%C3%97%20AI%20%C3%97%20ENGINEERING&descAlignY=58&descSize=20&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D2F7FF,50:00CCFF,100:0066FF&height=220&section=header&text=ZAYNAB&fontSize=70&fontColor=0B0F14&fontAlignY=38&desc=CYBERSECURITY%20%C3%97%20AI%20%C3%97%20ENGINEERING&descAlignY=58&descSize=20&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D2F7FF,50:00CCFF,100:0066FF&height=220&section=header&text=ZAYNAB&fontSize=70&fontColor=0B0F14&fontAlignY=38&desc=CYBERSECURITY%20%C3%97%20AI%20%C3%97%20ENGINEERING&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0066FF,100:00CCFF&height=220&section=header&text=ZAYNAB%20EL%20MAGHROSSI&fontSize=48&fontColor=D2F7FF&fontAlignY=38&desc=CYBERSECURITY%20%C3%97%20AI%20ENGINEERING&descAlignY=58&descSize=20&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D2F7FF,50:00CCFF,100:0066FF&height=220&section=header&text=ZAYNAB%20EL%20MAGHROSSI&fontSize=48&fontColor=0B0F14&fontAlignY=38&desc=CYBERSECURITY%20%C3%97%20AI%20ENGINEERING&descAlignY=58&descSize=20&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D2F7FF,50:00CCFF,100:0066FF&height=220&section=header&text=ZAYNAB%20EL%20MAGHROSSI&fontSize=48&fontColor=0B0F14&fontAlignY=38&desc=CYBERSECURITY%20%C3%97%20AI%20ENGINEERING&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00CCFF&background=00000000&center=true&vCenter=true&width=650&lines=Securing+systems.;Building+intelligent+solutions.;Exploring+the+future+of+cybersecurity.">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0066FF&background=00000000&center=true&vCenter=true&width=650&lines=Securing+systems.;Building+intelligent+solutions.;Exploring+the+future+of+cybersecurity.">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0066FF&background=00000000&center=true&vCenter=true&width=650&lines=Securing+systems.;Building+intelligent+solutions.;Exploring+the+future+of+cybersecurity." alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00CCFF&background=00000000&center=true&vCenter=true&width=650&lines=Analyste+Cybersecurite+%26+Securite+IA;Detection+de+menaces+%C2%B7+Machine+Learning;Ouverte+au+stage+%2F+alternance">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=0066FF&background=00000000&center=true&vCenter=true&width=650&lines=Analyste+Cybersecurite+%26+Securite+IA;Detection+de+menaces+%C2%B7+Machine+Learning;Ouverte+au+stage+%2F+alternance">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=0066FF&background=00000000&center=true&vCenter=true&width=650&lines=Analyste+Cybersecurite+%26+Securite+IA;Detection+de+menaces+%C2%B7+Machine+Learning;Ouverte+au+stage+%2F+alternance" alt="Typing SVG"/>
 </picture>
 
 <br/>
 
-`@Zaynab693`
-&nbsp;•&nbsp;
+`@Zaynab693` &nbsp;•&nbsp; 📍 Rabat, Maroc — ouverte à la mobilité
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=flat-square&logo=linkedin&logoColor=00CCFF)](https://www.linkedin.com/in/zaynab-elmaghrossi-05b26a292/)
-&nbsp;•&nbsp;
+[![Email](https://img.shields.io/badge/Email-0B0F14?style=flat-square&logo=gmail&logoColor=00CCFF)](mailto:zaynabelmaghrossi@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Zaynab693&color=00ccff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
@@ -26,7 +27,7 @@
 
 <div align="center">
 
-> **Building secure and intelligent systems at the intersection of cybersecurity and AI.**
+> **Étudiante Master IA & Cybersécurité, à la recherche d'un stage ou d'une alternance en tant qu'analyste cybersécurité, ingénieure sécurité IA ou consultante en protection des données.**
 
 </div>
 
@@ -40,26 +41,13 @@
 
 ## 🖥️&nbsp; SYSTEM.STATUS
 
-```ansi
-[38;5;51m┌── zaynab@cyber-lab ──────────────────────────────────────[0m
-[38;5;51m│[0m
-[38;5;51m│[0m [38;5;51m$[0m whoami
-[38;5;255m│[0m   Zaynab — Cybersecurity & AI Engineer
-[38;5;51m│[0m
-[38;5;51m│[0m [38;5;51m$[0m cat interests.txt
-[38;5;255m│[0m   cybersecurity
-[38;5;255m│[0m   artificial-intelligence
-[38;5;255m│[0m   network-security
-[38;5;255m│[0m   infrastructure
-[38;5;51m│[0m
-[38;5;51m│[0m [38;5;51m$[0m ./current_focus.sh
-[38;5;51m│[0m   [██████████████████████░░░░] 85%  training_model.pth ✔
-[38;5;51m│[0m
-[38;5;51m│[0m [38;5;51m$[0m status --check
-[38;5;46m│[0m   ● SYSTEM ONLINE
-[38;5;51m└─────────────────────────────────────────────────────────[0m
-```
-<sub>Code-block backgrounds are set by GitHub itself, so this terminal already flips with your site theme automatically.</sub>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
+  <img src="assets/terminal-light.svg" width="100%" alt="Animated terminal: whoami, skills, anomaly detector training, open to internship"/>
+</picture>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%">
@@ -67,32 +55,48 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%"/>
 </picture>
 
+## 💼&nbsp; EXPERIENCE
+
+<table width="100%">
+<tr><td width="100%">
+
+**Consultante en Sécurité Infrastructure** — ONCF Rabat &nbsp;<sub>· Stage, avril–juin 2024</sub>
+
+- Conception et déploiement d'une image sécurisée **Windows Server 2022** conforme aux référentiels **CIS Benchmarks**
+- Mise en œuvre de politiques de hardening système (**GPO**, configuration des services, gestion des droits et accès)
+- Standardisation des configurations serveurs pour des déploiements homogènes à l'échelle de l'ONCF
+
+`Windows Server 2022` `PowerShell` `CIS Benchmarks` `VMware` `Microsoft Security Compliance Toolkit`
+
+</td></tr>
+</table>
+
 ## 🛡️&nbsp; SECURITY LAB
 
 <table width="100%">
 <tr>
 <td width="25%" align="center">
 
-**Network Security**
-<br/><sub>NIDS · Firewalls</sub>
+**Pentest**
+<br/><sub>OSSTMM · PTES · OWASP WSTG</sub>
 
 </td>
 <td width="25%" align="center">
 
-**SIEM**
-<br/><sub>Monitoring · Alerting</sub>
+**OSINT**
+<br/><sub>recon-ng · theHarvester · SpiderFoot</sub>
 
 </td>
 <td width="25%" align="center">
 
-**Infrastructure Sec.**
-<br/><sub>Hardening · Segmentation</sub>
+**Security Ops**
+<br/><sub>Caldera · GRR · Velociraptor</sub>
 
 </td>
 <td width="25%" align="center">
 
-**Linux / Docker**
-<br/><sub>Containers · Systems</sub>
+**Infra Hardening**
+<br/><sub>CIS Benchmarks · GPO</sub>
 
 </td>
 </tr>
@@ -101,17 +105,17 @@
 ## 🤖&nbsp; AI × SECURITY
 
 <div align="center">
-<sub>Applying machine learning to detect, classify, and anticipate threats</sub>
+<sub>ML/DL appliqué à la détection de menaces, et IA générative (LLM, RAG, prompt engineering)</sub>
 </div>
 <br/>
 
 <table width="100%">
 <tr>
-<td width="20%" align="center">🧠<br/><sub><b>Machine Learning</b></sub></td>
-<td width="20%" align="center">🔮<br/><sub><b>Transformers</b></sub></td>
-<td width="20%" align="center">📡<br/><sub><b>Traffic Analysis</b></sub></td>
-<td width="20%" align="center">🔗<br/><sub><b>IoT Security</b></sub></td>
+<td width="20%" align="center">🧠<br/><sub><b>ML / DL</b></sub></td>
+<td width="20%" align="center">🔮<br/><sub><b>LLM · RAG</b></sub></td>
+<td width="20%" align="center">📡<br/><sub><b>Network Traffic</b></sub></td>
 <td width="20%" align="center">⚠️<br/><sub><b>Anomaly Detection</b></sub></td>
+<td width="20%" align="center">🧩<br/><sub><b>Prompt Engineering</b></sub></td>
 </tr>
 </table>
 
@@ -121,54 +125,59 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%"/>
 </picture>
 
-## 🚀&nbsp; FEATURED PROJECTS
+## 🚀&nbsp; PROJECTS
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 NIDS — IoT Network Detection
-Machine learning pipeline for detecting malicious activity in IoT network traffic.
+### 🔎 AI-Based Network Anomaly Detection System
+Détecte proactivement les comportements anormaux dans le trafic réseau (exfiltration de données, activité de botnet). Analyse des flux en temps réel avec alerte des équipes de sécurité pour une détection précoce.
 
-`Python` `Pandas` `PyTorch` `Transformers` `NetFlow`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0B0F14?style=flat-square&logo=github&logoColor=00CCFF)](https://github.com/Zaynab693)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Modern Network Infrastructure
-Multi-site network infrastructure with VPN tunneling, monitoring, and private cloud.
-
-`DMVPN` `IPSec` `GNS3` `Sophos XG` `Nagios XI` `Docker` `Nextcloud`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0B0F14?style=flat-square&logo=github&logoColor=00CCFF)](https://github.com/Zaynab693)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Hospital Management System
-Full-stack application for managing hospital operations and patient records.
-
-`React` `Node.js` `Express` `SQL Server`
+`Python` `Machine Learning` `Network Traffic Analysis` `Anomaly Detection`
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-0B0F14?style=flat-square&logo=github&logoColor=00CCFF)](https://github.com/Zaynab693)
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Nextcloud Infrastructure
-Dockerized private cloud integrated into a secure network architecture.
+### 📝 Blog Management System with Translation & Speech
+Application Python en ligne de commande pour gérer un blog (CRUD complet), avec traduction automatique et synthèse vocale — un article en français devient une version anglaise lue à voix haute.
 
-`Docker` `Nextcloud` `Linux` `Networking`
+`Python` `CLI` `Translation API` `Text-to-Speech`
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-0B0F14?style=flat-square&logo=github&logoColor=00CCFF)](https://github.com/Zaynab693)
 
 </td>
 </tr>
 </table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%"/>
+</picture>
+
+## 🎓&nbsp; FORMATION
+
+<table width="100%">
+<tr><td width="8%" align="center">🎓</td><td width="72%"><b>Master Intelligence Artificielle et Cybersécurité</b><br/><sub>Université Ibn Tofail, Kénitra</sub></td><td width="20%" align="right"><sub>2025 – 2027</sub></td></tr>
+<tr><td align="center">🤖</td><td><b>Generative AI & Machine Learning Bootcamp</b><br/><sub>Geeks Institute — LaStartupStation</sub></td><td align="right"><sub>10/2025 – 03/2026</sub></td></tr>
+<tr><td align="center">🎓</td><td><b>Licence en Ingénierie des Systèmes d'Information</b><br/><sub>SUP MTI, Rabat</sub></td><td align="right"><sub>2023 – 2025</sub></td></tr>
+<tr><td align="center">📜</td><td><b>DQP Innovation Entrepreneuriale</b><br/><sub>ISTA NTIC Hay Riyad, Rabat</sub></td><td align="right"><sub>2022 – 2023</sub></td></tr>
+<tr><td align="center">📜</td><td><b>Infrastructure Digitale — option Cybersécurité</b><br/><sub>ISTA NTIC Hay Riyad, Rabat</sub></td><td align="right"><sub>2020 – 2022</sub></td></tr>
+</table>
+
+## 📜&nbsp; CERTIFICATIONS
+
+![ISC2](https://img.shields.io/badge/Certified_in_Cybersecurity-ISC2-0B0F14?style=flat-square&logoColor=00CCFF)
+![Cisco](https://img.shields.io/badge/Ethical_Hacker-Cisco-0B0F14?style=flat-square&logoColor=00CCFF)
+![Cisco](https://img.shields.io/badge/Cyber_Threat_Management-Cisco-0B0F14?style=flat-square&logoColor=00CCFF)
+![MinnaLearn](https://img.shields.io/badge/Elements_of_AI_for_Business-MinnaLearn-0B0F14?style=flat-square&logoColor=00CCFF)
+<br/>
+![MDA](https://img.shields.io/badge/Cybersecurity_Specialization-MDA-0B0F14?style=flat-square&logoColor=00CCFF)
+![CCNA](https://img.shields.io/badge/CCNA_1_2_3-Cisco-0B0F14?style=flat-square&logoColor=00CCFF)
+![PCAP](https://img.shields.io/badge/PCAP_Python-Cisco-0B0F14?style=flat-square&logoColor=00CCFF)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%">
@@ -221,55 +230,36 @@ Dockerized private cloud integrated into a secure network architecture.
 
 ## 🧰&nbsp; TECH STACK
 
-<sub>Kept as fixed dark chips on purpose — a stable brand mark that reads the same in both modes, like a logo. Say the word and I'll make these theme-adaptive too.</sub>
-
-**SECURITY**
+**PENTEST & OSINT**
 <br/>
-![Linux](https://img.shields.io/badge/Linux-0B0F14?style=flat-square&logo=linux&logoColor=00CCFF)
-![Wireshark](https://img.shields.io/badge/Wireshark-0B0F14?style=flat-square&logo=wireshark&logoColor=00CCFF)
-![Bash](https://img.shields.io/badge/Bash-0B0F14?style=flat-square&logo=gnubash&logoColor=00CCFF)
-
-**NETWORKING**
-<br/>
-![Cisco](https://img.shields.io/badge/Networking-0B0F14?style=flat-square&logo=cisco&logoColor=00CCFF)
-![Nagios](https://img.shields.io/badge/Nagios-0B0F14?style=flat-square&logo=nagios&logoColor=00CCFF)
+![Nmap](https://img.shields.io/badge/Nmap-0B0F14?style=flat-square&logo=nmap&logoColor=00CCFF)
+![Metasploit](https://img.shields.io/badge/Metasploit-0B0F14?style=flat-square&logo=metasploit&logoColor=00CCFF)
+![Wireshark](https://img.shields.io/badge/Nessus-0B0F14?style=flat-square&logo=wireshark&logoColor=00CCFF)
 
 **AI / ML**
 <br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-0B0F14?style=flat-square&logo=pytorch&logoColor=00CCFF)
+![Python](https://img.shields.io/badge/Python-0B0F14?style=flat-square&logo=python&logoColor=00CCFF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B0F14?style=flat-square&logo=tensorflow&logoColor=00CCFF)
+![Keras](https://img.shields.io/badge/Keras-0B0F14?style=flat-square&logo=keras&logoColor=00CCFF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0B0F14?style=flat-square&logo=scikitlearn&logoColor=00CCFF)
 ![Pandas](https://img.shields.io/badge/Pandas-0B0F14?style=flat-square&logo=pandas&logoColor=00CCFF)
 ![NumPy](https://img.shields.io/badge/NumPy-0B0F14?style=flat-square&logo=numpy&logoColor=00CCFF)
 
-**DEVELOPMENT**
+**SYSTEMS & VIRTUALIZATION**
 <br/>
-![Python](https://img.shields.io/badge/Python-0B0F14?style=flat-square&logo=python&logoColor=00CCFF)
-![React](https://img.shields.io/badge/React-0B0F14?style=flat-square&logo=react&logoColor=00CCFF)
-![Node.js](https://img.shields.io/badge/Node.js-0B0F14?style=flat-square&logo=nodedotjs&logoColor=00CCFF)
+![Windows](https://img.shields.io/badge/Windows_Server-0B0F14?style=flat-square&logo=windows&logoColor=00CCFF)
+![Linux](https://img.shields.io/badge/Linux-0B0F14?style=flat-square&logo=linux&logoColor=00CCFF)
+![VMware](https://img.shields.io/badge/VMware-0B0F14?style=flat-square&logo=vmware&logoColor=00CCFF)
+![PowerShell](https://img.shields.io/badge/PowerShell-0B0F14?style=flat-square&logo=powershell&logoColor=00CCFF)
 
-**DATABASE**
+**DATA**
 <br/>
-![MySQL](https://img.shields.io/badge/MySQL-0B0F14?style=flat-square&logo=mysql&logoColor=00CCFF)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0B0F14?style=flat-square&logo=microsoftsqlserver&logoColor=00CCFF)
+![SQL](https://img.shields.io/badge/SQL-0B0F14?style=flat-square&logo=mysql&logoColor=00CCFF)
 
-**DEVOPS**
-<br/>
-![Docker](https://img.shields.io/badge/Docker-0B0F14?style=flat-square&logo=docker&logoColor=00CCFF)
-![Git](https://img.shields.io/badge/Git-0B0F14?style=flat-square&logo=git&logoColor=00CCFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B0F14?style=flat-square&logo=githubactions&logoColor=00CCFF)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=2&width=100%"/>
-</picture>
-
-## 🎯&nbsp; CURRENTLY BUILDING
+## 🌍&nbsp; LANGUAGES
 
 <table width="100%">
-<tr><td width="8%" align="center"><b>01</b></td><td width="92%"><b>Cybersecurity</b><br/><sub>Network Security · NIDS · SIEM</sub></td></tr>
-<tr><td align="center"><b>02</b></td><td><b>Artificial Intelligence</b><br/><sub>Machine Learning · Transformers · GenAI</sub></td></tr>
-<tr><td align="center"><b>03</b></td><td><b>Infrastructure</b><br/><sub>Docker · Virtualization · Networking</sub></td></tr>
-<tr><td align="center"><b>04</b></td><td><b>Development</b><br/><sub>Python · React · Node.js · SQL</sub></td></tr>
+<tr><td width="33%" align="center"><b>Arabic</b><br/><sub>Fluent</sub></td><td width="33%" align="center"><b>French</b><br/><sub>B2 — Intermediate</sub></td><td width="33%" align="center"><b>English</b><br/><sub>B2 — Intermediate</sub></td></tr>
 </table>
 
 <br/>
@@ -283,7 +273,7 @@ Dockerized private cloud integrated into a secure network architecture.
 </picture>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zaynab693-0B0F14?style=for-the-badge&logo=github&logoColor=00CCFF)](https://github.com/Zaynab693)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaynab_Elmaghrossi-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00CCFF)](https://www.linkedin.com/in/zaynab-elmaghrossi-05b26a292/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-0B0F14?style=for-the-badge&logo=gmail&logoColor=00CCFF)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaynab_EL_MAGHROSSI-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00CCFF)](https://www.linkedin.com/in/zaynab-elmaghrossi-05b26a292/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0B0F14?style=for-the-badge&logo=gmail&logoColor=00CCFF)](mailto:zaynabelmaghrossi@gmail.com)
 
 </div>
