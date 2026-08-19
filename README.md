@@ -1,177 +1,230 @@
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d2b1d,100:000000&height=210&section=header&text=ZAYNAB%20EL%20MAGHROSSI&fontSize=40&fontColor=39FF14&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20and%20AI%20Security&descAlignY=58&descSize=18&descColor=00FF9C" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0066FF,100:00CCFF&height=220&section=header&text=ZAYNAB&fontSize=70&fontColor=D2F7FF&fontAlignY=38&desc=CYBERSECURITY%20%C3%97%20AI%20%C3%97%20ENGINEERING&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=620&lines=%3E+whoami+--role;Cybersecurity+Analyst;AI+Security+%2F+Threat+Detection;Network+Defense+and+Pentesting;Masters+student+%40+Universit%C3%A9+Ibn+Tofail" alt="typing">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00CCFF&center=true&vCenter=true&width=650&lines=Securing+systems.;Building+intelligent+solutions.;Exploring+the+future+of+cybersecurity." alt="Typing SVG" />
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/status-open%20to%20internship%20%2F%20alternance-39FF14?style=for-the-badge&labelColor=000000">
+`@Zaynab693`
+&nbsp;•&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=flat-square&logo=linkedin&logoColor=00CCFF)](https://www.linkedin.com/in/zaynab-elmaghrossi-05b26a292/)
+&nbsp;•&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Zaynab693&color=00ccff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
-<br>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Zaynab693/Zaynab693/main/assets/terminal.svg" width="100%" alt="live terminal">
-</p>
-
-<br>
-
-<!-- ===================== ABOUT ===================== -->
-```bash
-zaynab@security:~$ cat about.md
-```
-
-```text
-Master's student in Artificial Intelligence & Cybersecurity at Université Ibn
-Tofail, with a Generative AI / Machine Learning bootcamp behind me
-(Geeks Institute).
-
-Looking for an internship or work-study role as a cybersecurity analyst,
-AI security engineer, or data protection consultant — combining secure
-systems, threat detection, and applied ML to help harden real infrastructure
-against real attacks.
-```
-
-<br>
-
-<!-- ===================== PROJECTS ===================== -->
-```bash
-zaynab@security:~$ ls -la projects/
-```
-
-```text
-drwxr-xr-x  ai-network-anomaly-detection/
-  > Detects abnormal network behavior in real time (data exfiltration,
-    botnet activity) using ML on live traffic flows. Alerts security teams
-    on significant deviations from baseline — faster detection, faster
-    response.
-  > stack: Python · Scikit-learn · Pandas · Network Security
-
-drwxr-xr-x  blog-cli-translate-speech/
-  > CLI Python app for full blog CRUD with automatic translation and
-    text-to-speech. Turns a French article into a spoken English version —
-    built for multilingual reach and accessibility.
-  > stack: Python · NLP · Text-to-Speech · CRUD
-```
-
-<br>
-
-<!-- ===================== EXPERIENCE ===================== -->
-```bash
-zaynab@security:~$ cat experience.log
-```
-
-```text
-[Apr 2024 - Jun 2024]  Infrastructure Security Consultant @ ONCF Rabat
-
-  - Designed & deployed a hardened Windows Server 2022 image compliant
-    with CIS Benchmarks
-  - Implemented GPO-based system hardening across services, rights and
-    access controls
-  - Standardized secure server configs org-wide, reducing vulnerability
-    surface
-
-  tools: Windows Server 2022 · PowerShell · CIS Benchmarks · VMware
-         Microsoft Security Compliance Toolkit
-```
-
-<br>
-
-<!-- ===================== SKILLS ===================== -->
-```bash
-zaynab@security:~$ ls skills/ --tree
-```
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,windows,git,github,vscode,bash,mysql,tensorflow&theme=dark">
-</p>
-
-```text
-security/     nmap · metasploit · nessus · wireshark · osint-recon
-methodology/  osstmm · ptes · owasp-wstg
-ai/           llm · rag · prompt-engineering
-```
-
-<br>
-
-<!-- ===================== CERTIFICATIONS ===================== -->
-```bash
-zaynab@security:~$ cat certifications.txt
-```
-
-```text
-[x] ISC2                  — Certified in Cybersecurity
-[x] Cisco                 — Ethical Hacker
-[x] Cisco                 — CCNA 1, 2, 3
-[x] Cisco                 — Cyber Threat Management
-[x] Cisco                 — PCAP: Programming Essentials in Python
-[x] Morocco Digital Academy — Cybersecurity Specialization
-```
-
-<br>
-
-<!-- ===================== LIVE ACTIVITY ===================== -->
-```bash
-zaynab@security:~$ ./activity.sh --live
-```
-
-### 🐍 contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaynab693/Zaynab693/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zaynab693/Zaynab693/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Zaynab693/Zaynab693/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake">
-</picture>
-
-### 🌐 3D contribution graph
-
-<img src="https://raw.githubusercontent.com/Zaynab693/Zaynab693/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph">
-
-### 📊 stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Zaynab693&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=00FF9C&text_color=94a3b8" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynab693&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=94a3b8" height="165">
-</p>
-
-### 🔥 streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaynab693&theme=dark&hide_border=true&background=000000&stroke=39FF14&ring=00FF9C&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=666666" alt="streak stats">
-</p>
-
-### 📡 commit activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&theme=react-dark&bg_color=000000&color=39FF14&line=39FF14&point=00FF9C&area=true&area_color=0d2b1d&hide_border=true" width="100%">
-</p>
-
-<br>
-
-<!-- ===================== CONTACT ===================== -->
-```bash
-zaynab@security:~$ contact --info
-```
-
-```text
-email     : zaynabelmaghrossi@gmail.com
-linkedin  : linkedin.com/in/your-profile
-location  : Rabat, Morocco
-```
-
-<p align="center">
-<a href="mailto:zaynabelmaghrossi@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" height="30"></a>
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" height="30"></a>
-<img src="https://img.shields.io/badge/-Rabat%2C%20Morocco-000000?style=for-the-badge&logo=googlemaps&logoColor=39FF14" height="30">
-</p>
-
-```bash
-zaynab@security:~$ █
-```
+<br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d2b1d,100:000000&height=110&section=footer" width="100%">
+
+> **Building secure and intelligent systems at the intersection of cybersecurity and AI.**
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%"/>
+
+## 🖥️&nbsp; SYSTEM.STATUS
+
+```ansi
+[38;5;51m┌── zaynab@cyber-lab ──────────────────────────────────────[0m
+[38;5;51m│[0m
+[38;5;51m│[0m [38;5;51m$[0m whoami
+[38;5;255m│[0m   Zaynab — Cybersecurity & AI Engineer
+[38;5;51m│[0m
+[38;5;51m│[0m [38;5;51m$[0m cat interests.txt
+[38;5;255m│[0m   cybersecurity
+[38;5;255m│[0m   artificial-intelligence
+[38;5;255m│[0m   network-security
+[38;5;255m│[0m   infrastructure
+[38;5;51m│[0m
+[38;5;51m│[0m [38;5;51m$[0m ./current_focus.sh
+[38;5;51m│[0m   [██████████████████████░░░░] 85%  training_model.pth ✔
+[38;5;51m│[0m
+[38;5;51m│[0m [38;5;51m$[0m status --check
+[38;5;46m│[0m   ● SYSTEM ONLINE
+[38;5;51m└─────────────────────────────────────────────────────────[0m
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%"/>
+
+## 🛡️&nbsp; SECURITY LAB
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+**Network Security**
+<br/><sub>NIDS · Firewalls</sub>
+
+</td>
+<td width="25%" align="center">
+
+**SIEM**
+<br/><sub>Monitoring · Alerting</sub>
+
+</td>
+<td width="25%" align="center">
+
+**Infrastructure Sec.**
+<br/><sub>Hardening · Segmentation</sub>
+
+</td>
+<td width="25%" align="center">
+
+**Linux / Docker**
+<br/><sub>Containers · Systems</sub>
+
+</td>
+</tr>
+</table>
+
+## 🤖&nbsp; AI × SECURITY
+
+<div align="center">
+<sub>Applying machine learning to detect, classify, and anticipate threats</sub>
+</div>
+<br/>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center">🧠<br/><sub><b>Machine Learning</b></sub></td>
+<td width="20%" align="center">🔮<br/><sub><b>Transformers</b></sub></td>
+<td width="20%" align="center">📡<br/><sub><b>Traffic Analysis</b></sub></td>
+<td width="20%" align="center">🔗<br/><sub><b>IoT Security</b></sub></td>
+<td width="20%" align="center">⚠️<br/><sub><b>Anomaly Detection</b></sub></td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%"/>
+
+## 🚀&nbsp; FEATURED PROJECTS
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 NIDS — IoT Network Detection
+Machine learning pipeline for detecting malicious activity in IoT network traffic.
+
+`Python` `Pandas` `PyTorch` `Transformers` `NetFlow`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0B0F14?style=flat-square&logo=github&logoColor=00CCFF)](https://github.com/Zaynab693)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Modern Network Infrastructure
+Multi-site network infrastructure with VPN tunneling, monitoring, and private cloud.
+
+`DMVPN` `IPSec` `GNS3` `Sophos XG` `Nagios XI` `Docker` `Nextcloud`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0B0F14?style=flat-square&logo=github&logoColor=00CCFF)](https://github.com/Zaynab693)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Hospital Management System
+Full-stack application for managing hospital operations and patient records.
+
+`React` `Node.js` `Express` `SQL Server`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0B0F14?style=flat-square&logo=github&logoColor=00CCFF)](https://github.com/Zaynab693)
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Nextcloud Infrastructure
+Dockerized private cloud integrated into a secure network architecture.
+
+`Docker` `Nextcloud` `Linux` `Networking`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0B0F14?style=flat-square&logo=github&logoColor=00CCFF)](https://github.com/Zaynab693)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%"/>
+
+## 📊&nbsp; ANALYTICS DASHBOARD
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zaynab693&show_icons=true&count_private=true&hide_border=true&bg_color=0B0F14&title_color=00CCFF&icon_color=00CCFF&text_color=D2F7FF" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Zaynab693&hide_border=true&background=0B0F14&ring=00CCFF&fire=0066FF&currStreakLabel=00CCFF&sideLabels=D2F7FF&currStreakNum=D2F7FF&sideNums=D2F7FF&dates=6E7681" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynab693&layout=compact&hide_border=true&bg_color=0B0F14&title_color=00CCFF&text_color=D2F7FF&langs_count=8" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=0B0F14&color=D2F7FF&line=00CCFF&point=0066FF&hide_border=true&area=true" width="100%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Zaynab693/Zaynab693/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%"/>
+
+## 🧰&nbsp; TECH STACK
+
+**SECURITY**
+<br/>
+![Linux](https://img.shields.io/badge/Linux-0B0F14?style=flat-square&logo=linux&logoColor=00CCFF)
+![Wireshark](https://img.shields.io/badge/Wireshark-0B0F14?style=flat-square&logo=wireshark&logoColor=00CCFF)
+![Bash](https://img.shields.io/badge/Bash-0B0F14?style=flat-square&logo=gnubash&logoColor=00CCFF)
+
+**NETWORKING**
+<br/>
+![Cisco](https://img.shields.io/badge/Networking-0B0F14?style=flat-square&logo=cisco&logoColor=00CCFF)
+![Nagios](https://img.shields.io/badge/Nagios-0B0F14?style=flat-square&logo=nagios&logoColor=00CCFF)
+
+**AI / ML**
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-0B0F14?style=flat-square&logo=pytorch&logoColor=00CCFF)
+![Pandas](https://img.shields.io/badge/Pandas-0B0F14?style=flat-square&logo=pandas&logoColor=00CCFF)
+![NumPy](https://img.shields.io/badge/NumPy-0B0F14?style=flat-square&logo=numpy&logoColor=00CCFF)
+
+**DEVELOPMENT**
+<br/>
+![Python](https://img.shields.io/badge/Python-0B0F14?style=flat-square&logo=python&logoColor=00CCFF)
+![React](https://img.shields.io/badge/React-0B0F14?style=flat-square&logo=react&logoColor=00CCFF)
+![Node.js](https://img.shields.io/badge/Node.js-0B0F14?style=flat-square&logo=nodedotjs&logoColor=00CCFF)
+
+**DATABASE**
+<br/>
+![MySQL](https://img.shields.io/badge/MySQL-0B0F14?style=flat-square&logo=mysql&logoColor=00CCFF)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0B0F14?style=flat-square&logo=microsoftsqlserver&logoColor=00CCFF)
+
+**DEVOPS**
+<br/>
+![Docker](https://img.shields.io/badge/Docker-0B0F14?style=flat-square&logo=docker&logoColor=00CCFF)
+![Git](https://img.shields.io/badge/Git-0B0F14?style=flat-square&logo=git&logoColor=00CCFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B0F14?style=flat-square&logo=githubactions&logoColor=00CCFF)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&width=100%"/>
+
+## 🎯&nbsp; CURRENTLY BUILDING
+
+<table width="100%">
+<tr><td width="8%" align="center"><b>01</b></td><td width="92%"><b>Cybersecurity</b><br/><sub>Network Security · NIDS · SIEM</sub></td></tr>
+<tr><td align="center"><b>02</b></td><td><b>Artificial Intelligence</b><br/><sub>Machine Learning · Transformers · GenAI</sub></td></tr>
+<tr><td align="center"><b>03</b></td><td><b>Infrastructure</b><br/><sub>Docker · Virtualization · Networking</sub></td></tr>
+<tr><td align="center"><b>04</b></td><td><b>Development</b><br/><sub>Python · React · Node.js · SQL</sub></td></tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CCFF,100:0B0F14&height=150&section=footer&text=SECURE%20THE%20SYSTEM.%20BUILD%20THE%20FUTURE.&fontSize=18&fontColor=D2F7FF&fontAlignY=75&animation=fadeIn" width="100%"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Zaynab693-0B0F14?style=for-the-badge&logo=github&logoColor=00CCFF)](https://github.com/Zaynab693)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaynab_Elmaghrossi-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00CCFF)](https://www.linkedin.com/in/zaynab-elmaghrossi-05b26a292/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0B0F14?style=for-the-badge&logo=gmail&logoColor=00CCFF)](mailto:your-email@example.com)
+
 </div>
