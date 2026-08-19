@@ -163,24 +163,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zaynab693&show_icons=true&count_private=true&hide_border=false&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=E2E8F0">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Zaynab693&show_icons=true&count_private=true&hide_border=false&border_color=2563EB&bg_color=F8FAFC&title_color=2563EB&icon_color=2563EB&text_color=0D1117">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaynab693&show_icons=true&count_private=true&hide_border=false&border_color=2563EB&bg_color=F8FAFC&title_color=2563EB&icon_color=2563EB&text_color=0D1117" height="165"/>
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/Zaynab693?background=0D1117&color=00D9FF">
   <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/Zaynab693?background=F8FAFC&color=2563EB">
   <img src="https://ghchart.rshah.org/Zaynab693" alt="Zaynab's contribution calendar" width="100%"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Zaynab693&hide_border=false&border=00D9FF&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=6E7681">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Zaynab693&hide_border=false&border=2563EB&background=F8FAFC&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB&sideLabels=0D1117&currStreakNum=0D1117&sideNums=0D1117&dates=64748B">
-  <img src="https://streak-stats.demolab.com/?user=Zaynab693&hide_border=false&border=2563EB&background=F8FAFC&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB&sideLabels=0D1117&currStreakNum=0D1117&sideNums=0D1117&dates=64748B" height="165"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=0D1117&color=E2E8F0&line=00D9FF&point=7C3AED&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=F8FAFC&color=0D1117&line=2563EB&point=06B6D4&hide_border=true&area=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynab693&bg_color=F8FAFC&color=0D1117&line=2563EB&point=06B6D4&hide_border=true&area=true" width="100%"/>
 </picture>
 
 </div>
