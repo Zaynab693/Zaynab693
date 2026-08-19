@@ -10,18 +10,18 @@
 <br>
 
 <!-- ===================== TERMINAL / SYSTEM SCAN ===================== -->
-```ansi
-[0;32m┌────────────────────────────────────────────────────────┐[0m
-[0;32m│[0m [1;32mSYSTEM SCAN: zaynab_elmaghrossi.profile[0m               [0;32m│[0m
-[0;32m├────────────────────────────────────────────────────────┤[0m
-[0;32m│[0m > location    : Rabat, Morocco — open to relocation     [0;32m│[0m
-[0;32m│[0m > status      : Master's — AI & Cybersecurity (2025-27)  [0;32m│[0m
-[0;32m│[0m > seeking     : Internship / Alternance — SecOps, AI Sec [0;32m│[0m
-[0;32m│[0m > last_role   : Infrastructure Security @ ONCF Rabat     [0;32m│[0m
-[0;32m│[0m > languages   : AR (native) · FR (B2) · EN (B2)          [0;32m│[0m
-[0;32m│[0m > threat_lvl  : ISC2 Certified · Cisco Ethical Hacker     [0;32m│[0m
-[0;32m│[0m [1;32mSCAN COMPLETE — 0 vulnerabilities in this profile ✓[0m     [0;32m│[0m
-[0;32m└────────────────────────────────────────────────────────┘[0m
+```text
+┌────────────────────────────────────────────────────────┐
+│ SYSTEM SCAN: zaynab_elmaghrossi.profile                 │
+├────────────────────────────────────────────────────────┤
+│ > location    : Rabat, Morocco - open to relocation     │
+│ > status      : Master's - AI & Cybersecurity (2025-27) │
+│ > seeking     : Internship / Alternance - SecOps, AI Sec │
+│ > last_role   : Infrastructure Security @ ONCF Rabat     │
+│ > languages   : AR (native) . FR (B2) . EN (B2)          │
+│ > threat_lvl  : ISC2 Certified . Cisco Ethical Hacker    │
+│ SCAN COMPLETE - 0 vulnerabilities in this profile [OK]   │
+└────────────────────────────────────────────────────────┘
 ```
 
 <br>
