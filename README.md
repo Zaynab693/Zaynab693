@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Zaynab Elmaghrossi — Cybersecurity × AI Engineer"/>
+  <img src="assets/hero-light.svg" width="100%" alt="Zaynab Elmaghrossi — Cybersecurity Engineer"/>
 </picture>
 
 <br/>
