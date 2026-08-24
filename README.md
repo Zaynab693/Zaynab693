@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="assets/avatar-circle.png" width="180" alt="Zaynab Elmaghrossi"/>
+</div>
+
+<br/>
 <!-- HERO -->
 <div align="center">
 
